@@ -202,8 +202,9 @@ p {
 }
 
 #horaire div.mercredi2 {
-    grid-column: 4;
-    grid-row: 5 / 6;
+    /* grid-column: 4;
+    grid-row: 5 / 6; */
+    grid-area: 5 / 4 / 5 / 4;
 } 
 
 #horaire div.mercredi3 {
